@@ -127,7 +127,7 @@ export default function Hero() {
               }}
             >
               ELNOR synthesizes Japanese Onsen warmth and Shiatsu precision into 
-              whisper-quiet, cordless wellness devices — designed for how you actually live.
+              whisper quiet, cordless wellness devices designed for how you actually live.
             </p>
 
             {/* Desktop CTAs */}
